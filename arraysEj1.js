@@ -5,3 +5,5 @@ console.log(" ")
 console.log("se a removido el primer elemento " +first)
 console.log("asi quedo el arrays ", array)
 console.log("hello word ")
+
+
